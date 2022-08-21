@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\projects\CalcAPP\CalcAPP\obj\Debug\netcoreapp3.1\CalcAPP.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\projects\CalcAPP\CalcAPP\obj\Debug\netcoreapp3.1\CalcAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\projects\CalcAPP\CalcAPP\obj\Debug\netcoreapp3.1\CalcAPP.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\projects\CalcAPP\CalcAPP\obj\Debug\netcoreapp3.1\CalcAPP.AssemblyInfo.cs
+C:\Users\HP\Desktop\projects\CalcAPP\CalcAPP\obj\Debug\netcoreapp3.1\CalcAPP.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\projects\CalcAPP\CalcAPP\bin\Debug\netcoreapp3.1\CalcAPP.exe
+C:\Users\HP\Desktop\projects\CalcAPP\CalcAPP\bin\Debug\netcoreapp3.1\CalcAPP.deps.json
+C:\Users\HP\Desktop\projects\CalcAPP\CalcAPP\bin\Debug\netcoreapp3.1\CalcAPP.runtimeconfig.json
+C:\Users\HP\Desktop\projects\CalcAPP\CalcAPP\bin\Debug\netcoreapp3.1\CalcAPP.runtimeconfig.dev.json
+C:\Users\HP\Desktop\projects\CalcAPP\CalcAPP\bin\Debug\netcoreapp3.1\CalcAPP.dll
+C:\Users\HP\Desktop\projects\CalcAPP\CalcAPP\bin\Debug\netcoreapp3.1\CalcAPP.pdb
+C:\Users\HP\Desktop\projects\CalcAPP\CalcAPP\obj\Debug\netcoreapp3.1\CalcAPP.dll
+C:\Users\HP\Desktop\projects\CalcAPP\CalcAPP\obj\Debug\netcoreapp3.1\CalcAPP.pdb
+C:\Users\HP\Desktop\projects\CalcAPP\CalcAPP\obj\Debug\netcoreapp3.1\CalcAPP.genruntimeconfig.cache
